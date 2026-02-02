@@ -410,6 +410,11 @@ function Footer() {
             <p className="text-gray-400 leading-relaxed">
               Votre partenaire pour l'équipement professionnel de qualité. 
               Nous sélectionnons les meilleurs produits pour répondre à vos besoins.
+              Notre site propose une sélection de matériels destinés au grand public, visant à renforcer l’autonomie, 
+              la résilience et la capacité de préparation des foyers face à des situations exceptionnelles du quotidien 
+              (pannes prolongées, événements climatiques, ruptures logistiques, etc.).
+              Les équipements présentés sont exclusivement civils, légaux et conformes aux réglementations en vigueur. 
+              Ils ne sont pas liés à un usage militaire ni au conflit armé, mais s’inscrivent dans une démarche responsable de prévention et de continuité de vie.
             </p>
           </div>
 

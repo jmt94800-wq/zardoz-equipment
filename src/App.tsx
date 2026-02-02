@@ -348,7 +348,7 @@ function Hero() {
 
       <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center py-32">
         <Badge className="mb-6 px-4 py-2 bg-white/10 text-white border-white/20 backdrop-blur-sm">
-          Équipement Professionnel & Industriel
+          Matériels destinés au grand public
         </Badge>
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-tight">
           Zardoz{' '}
@@ -357,8 +357,12 @@ function Hero() {
           </span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto mb-10 leading-relaxed">
-          Découvrez notre sélection d'équipements professionnels de qualité. 
-          De l'énergie à la régulation thermique, en passant par l'alimentation et bien plus.
+              Notre site propose une sélection de matériels destinés au grand public, visant à renforcer l’autonomie, 
+              la résilience et la capacité de préparation des foyers face à des situations exceptionnelles du quotidien 
+              (pannes prolongées, événements climatiques, ruptures logistiques, etc.).
+              Les équipements présentés sont exclusivement civils, légaux et conformes aux réglementations en vigueur. 
+              Ils ne sont pas liés à un usage militaire ni au conflit armé, mais s’inscrivent dans une démarche responsable de prévention et de continuité de vie.
+
         </p>
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <Button 

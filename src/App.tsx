@@ -33,7 +33,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Kit solaire pliable de 100W pour camping et activités outdoor. Charge rapide, résistant aux intempéries, idéal pour une alimentation nomade.',
     image: '/solar-panel.jpg',
     category: 'energy',
-    amazonLink: 'https://www.amazon.fr/s?k=panneau+solaire+portable'
+    amazonLink: 'https://www.amazon.fr/s?k=panneau+solaire+portable&tag=zequipement-21'
   },
   {
     id: 'energy-2',
@@ -41,7 +41,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Générateur électrique silencieux 1000W avec prises multiples, écran LCD et batterie longue durée. Parfait pour les situations d\'urgence.',
     image: '/generator.jpg',
     category: 'energy',
-    amazonLink: 'https://www.amazon.fr/s?k=générateur+portable'
+    amazonLink: 'https://www.amazon.fr/s?k=générateur+portablehttps://www.amazon.fr/s?k=panneau+solaire+portable&tag=zequipement-21'
   },
   {
     id: 'energy-3',
@@ -49,7 +49,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Power bank haute capacité avec charge rapide USB-C et multiple ports. Autonomie exceptionnelle pour tous vos appareils mobiles.',
     image: '/powerbank.jpg',
     category: 'energy',
-    amazonLink: 'https://www.amazon.fr/s?k=batterie+externe+30000mah'
+    amazonLink: 'https://www.amazon.fr/s?k=batterie+externe+30000mah&tag=zequipement-21'
   },
   {
     id: 'energy-4',
@@ -57,7 +57,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Mini éolienne 400W pour installation domestique. Design moderne, faible bruit, production d\'énergie propre et renouvelable.',
     image: '/wind-turbine.jpg',
     category: 'energy',
-    amazonLink: 'https://www.amazon.fr/s?k=éolienne+résidentielle'
+    amazonLink: 'https://www.amazon.fr/s?k=éolienne+résidentielle&tag=zequipement-21'
   },
   // Thermal Regulation Section
   {
@@ -66,7 +66,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Radiateur céramique avec thermostat programmable, 3 niveaux de puissance et sécurité anti-surchauffe. Chauffage rapide et économique.',
     image: '/heater.jpg',
     category: 'thermal',
-    amazonLink: 'https://www.amazon.fr/s?k=chauffage+céramique'
+    amazonLink: 'https://www.amazon.fr/s?k=chauffage+céramique&tag=zequipement-21'
   },
   {
     id: 'thermal-2',
@@ -74,7 +74,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Unité de climatisation portable 9000 BTU avec télécommande, minuterie et déshumidificateur intégré. Installation facile sans perçage.',
     image: '/ac-unit.jpg',
     category: 'thermal',
-    amazonLink: 'https://www.amazon.fr/s?k=climatiseur+mobile'
+    amazonLink: 'https://www.amazon.fr/s?k=climatiseur+mobile&tag=zequipement-21'
   },
   {
     id: 'thermal-3',
@@ -82,7 +82,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Thermostat connecté WiFi avec écran tactile, programmation hebdomadaire et contrôle via smartphone. Compatible assistants vocaux.',
     image: '/thermostat.jpg',
     category: 'thermal',
-    amazonLink: 'https://www.amazon.fr/s?k=thermostat+intelligent'
+    amazonLink: 'https://www.amazon.fr/s?k=thermostat+intelligen&tag=zequipement-21t'
   },
   {
     id: 'thermal-4',
@@ -90,7 +90,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Kit de 10 panneaux isolants en mousse polyuréthane 60x60cm. Isolation thermique et acoustique pour murs, plafonds et sols.',
     image: '/insulation.jpg',
     category: 'thermal',
-    amazonLink: 'https://www.amazon.fr/s?k=panneaux+isolants'
+    amazonLink: 'https://www.amazon.fr/s?k=panneaux+isolants&tag=zequipement-21'
   },
   // Food Section
   {
@@ -99,7 +99,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Armoire réfrigérée professionnelle double porte vitrée, 1200L. Température réglable, éclairage LED, idéal pour commerces et restaurants.',
     image: '/refrigerator.jpg',
     category: 'food',
-    amazonLink: 'https://www.amazon.fr/s?k=réfrigérateur+commercial'
+    amazonLink: 'https://www.amazon.fr/s?k=réfrigérateur+commercial&tag=zequipement-21'
   },
   {
     id: 'food-2',
@@ -107,7 +107,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Congélateur horizontal 500L avec couvercle vitré coulissant, thermostat réglable et fonction dégivrage rapide. Économie d\'énergie A++.',
     image: '/freezer.jpg',
     category: 'food',
-    amazonLink: 'https://www.amazon.fr/s?k=congélateur+coffre'
+    amazonLink: 'https://www.amazon.fr/s?k=congélateur+coffre&tag=zequipement-21'
   },
   {
     id: 'food-3',
@@ -115,7 +115,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Table de cuisson induction 4 feux, 7000W puissance totale. 17 niveaux de puissance, minuterie, détection automatique des récipients.',
     image: '/cooktop.jpg',
     category: 'food',
-    amazonLink: 'https://www.amazon.fr/s?k=plaque+induction'
+    amazonLink: 'https://www.amazon.fr/s?k=plaque+induction&tag=zequipement-21'
   },
   {
     id: 'food-4',
@@ -123,7 +123,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Robot de cuisine professionnel 1500W avec bol inox 5L, 8 accessoires inclus. Pétrin, mixeur, râpe et éminceur haute performance.',
     image: '/food-processor.jpg',
     category: 'food',
-    amazonLink: 'https://www.amazon.fr/s?k=robot+multifonction+pro'
+    amazonLink: 'https://www.amazon.fr/s?k=robot+multifonction+pro&tag=zequipement-21'
   },
   // Other Section
   {
@@ -132,7 +132,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Perceuse 20V avec 2 batteries lithium, chargeur rapide et coffret 50 accessoires. Mandrin auto-serrant, 2 vitesses, couple réglable.',
     image: '/drill.jpg',
     category: 'other',
-    amazonLink: 'https://www.amazon.fr/s?k=perceuse+visseuse+sans+fil'
+    amazonLink: 'https://www.amazon.fr/s?k=perceuse+visseuse+sans+fil&tag=zequipement-21'
   },
   {
     id: 'other-2',
@@ -140,7 +140,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Ensemble complet EPI : casque jaune, gants de protection, lunettes de sécurité et gilet haute visibilité. Conforme normes CE.',
     image: '/safety-kit.jpg',
     category: 'other',
-    amazonLink: 'https://www.amazon.fr/s?k=kit+sécurité+professionnel'
+    amazonLink: 'https://www.amazon.fr/s?k=kit+sécurité+professionnel&tag=zequipement-21'
   },
   {
     id: 'other-3',
@@ -148,7 +148,7 @@ const equipmentData: EquipmentItem[] = [
     description: 'Étagère industrielle 5 niveaux 200x60x200cm, charge 300kg par niveau. Acier galvanisé, montage sans outils, réglable en hauteur.',
     image: '/shelving.jpg',
     category: 'other',
-    amazonLink: 'https://www.amazon.fr/s?k=rayonnage+métallique'
+    amazonLink: 'https://www.amazon.fr/s?k=rayonnage+métallique&tag=zequipement-21'
   },
   {
     id: 'other-4',
@@ -156,13 +156,13 @@ const equipmentData: EquipmentItem[] = [
     description: 'Aspirateur industriel 30L 1500W, fonction soufflerie inclus. Filtre HEPA, accessoires multiples, idéal chantier et atelier.',
     image: '/vacuum.jpg',
     category: 'other',
-    amazonLink: 'https://www.amazon.fr/s?k=aspirateur+eau+poussière'
+    amazonLink: 'https://www.amazon.fr/s?k=aspirateur+eau+poussière&tag=zequipement-21'
   }
 ];
 
 const categories = [
   { id: 'energy', name: 'Énergie', icon: Zap, color: 'bg-amber-500' },
-  { id: 'thermal', name: 'Régulation Thermique', icon: Thermometer, color: 'bg-blue-500' },
+  { id: 'thermal', name: 'Éclairage', icon: Thermometer, color: 'bg-blue-500' },
   { id: 'food', name: 'Alimentation', icon: UtensilsCrossed, color: 'bg-emerald-500' },
   { id: 'other', name: 'Autre', icon: Package, color: 'bg-slate-500' },
 ];
